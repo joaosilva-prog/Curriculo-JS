@@ -19,5 +19,7 @@ Aplicar na prática os conhecimentos adquiridos durante a formação, criando um
 ## 📸
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e957f6ce-c017-4698-aa80-a97802b8ad70" />
+<img width="325" height="721" alt="image" src="https://github.com/user-attachments/assets/a12bd349-65cb-4b88-9c45-c79e1c953895" />
+
 
 
