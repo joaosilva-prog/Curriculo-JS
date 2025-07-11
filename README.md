@@ -10,7 +10,7 @@ Este é um projeto de **currículo online** desenvolvido com **HTML**, **CSS** e
 
 ## 📁 Como visualizar
 
-
+Abra o arquivo `index.html` em qualquer navegador. Certifique-se de manter a estrutura de pastas (`assets/`) intacta para que os estilos e scripts funcionem corretamente.
 
 ## 📌 Objetivo
 
